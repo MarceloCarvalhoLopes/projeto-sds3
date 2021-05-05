@@ -12,8 +12,8 @@ A aplicação consiste em DashBoard de vendas mostrando gráficos nos formatos de d
 
 
 # Tecnologias utilizadas
+#	Back end
 <ul>
-	<li>	Back end</li>
 	<li>	Java	</li>
 	<li>	Spring Boot </li>
 	<li>	JPA / Hibernate </li>
