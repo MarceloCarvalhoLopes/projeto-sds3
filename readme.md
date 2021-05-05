@@ -29,7 +29,7 @@ A aplicação consiste em DashBoard de vendas mostrando gráficos nos formatos de d
 	<li>	Expo </li>
 </ul>
 
-#	ImplantaÃ§Ã£o em produÃ§Ã£o 
+#	Implantação em produção 
 <ul>	
 	<li>	Back end: Heroku </li>
 	<li>	Front end web: Netlify </li>
