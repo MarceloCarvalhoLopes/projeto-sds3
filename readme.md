@@ -2,9 +2,10 @@
 
 <h2>Sobre o projeto</h2>
 
-Repositóri e aplicação hospedados em: </br>
+Repositório e aplicação hospedados em: </br>
+https://marcelo-dssales.netlify.app</br>
 https://github.com/MarceloCarvalhoLopes/projeto-sds3</br>
-https://marcelo-dssales.netlify.app
+https://sds3-marcelo.herokuapp.com/
 
 DSSales é uma aplicação full stack web consutruida durante a 3ª edição da <b>Semanda DevSuperior</b>, evento organizado pela <b>DevSuperior</b>. </br>
 
@@ -24,9 +25,9 @@ A aplicação consiste em DashBoard de vendas mostrando gráficos nos formatos de d
 <ul>	
 	<li>	HTML / CSS / JS / TypeScript </li>
 	<li>	ReactJS </li>
-	<li>	React Native </li>
+	<li>	React Router DOM </li>
+   <li>	Axios </li>
 	<li>	Apex Charts </li>
-	<li>	Expo </li>
 </ul>
 
 #	Implantação em produção 
